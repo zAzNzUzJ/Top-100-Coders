@@ -3,12 +3,9 @@
 I am Computer Science graduate, equipped with a solid foundation in software development and a genuine enthusiasm for solving complex problems.My unwavering commitment to continuous learning has enabled me to become proficient in multiple programming languages and to swiftly adapt to emerging technologies.
 ### Portfolio Highlights
 
-- 
-
 #### Leadership and Influence: 
 
 - Coordinated Designing team for the University Tech Event known as "Infinity" in both 2019 and 2020.
-
 - Participating in the RiGathon, a rigorous 48-hour Hackathon event, offered me valuable insights into fast project development, productive collaboration, and the hands-on use of image processing techniques.
 - Finalist in Smart India Hackathon 2020 . My team and I embarked on an image processing project with the goal of harnessing software support to calculate and assess the yield of agricultural land.
 
